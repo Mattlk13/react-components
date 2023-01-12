@@ -40,7 +40,7 @@
     "create-react-class": "15.6.3",
     "jquery": "*",
     "jsdom": "9.8.3",
-    "mocha": "3.2.0",
+    "mocha": "10.2.0",
     "moment": "*",
     "prop-types": "15.6.1",
     "raf": "3.4.0",
